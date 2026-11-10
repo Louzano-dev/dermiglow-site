@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /adm
+Disallow: /conta
+Disallow: /api/
+
+Sitemap: https://dermiglow.com.br/sitemap.xml
